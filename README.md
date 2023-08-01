@@ -7,4 +7,5 @@ This board is a simple R-2R DAC paired with an amplifier based on a LM386. The a
 # PCB
 ![pcb](./8bit-r2r-dac-pcb.svg)
 
-
+# License
+This project is under the MIT license. It can be found [here](./LICENSE).
