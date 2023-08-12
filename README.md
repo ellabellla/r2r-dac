@@ -10,5 +10,9 @@ See bom [here](./BOM.csv).
 # PCB
 ![pcb](./8bit-r2r-dac-pcb.svg)
 
+# Arduino Driver Sample Code
+
+A very basic function generator sketch that uses a timer interupt to generate a triangle wave and port registers to output to the DAC. View [here](./TriangleWaveGenerator/TriangleWaveGenerator.ino).
+
 # License
 This project is under the MIT license. It can be found [here](./LICENSE).
