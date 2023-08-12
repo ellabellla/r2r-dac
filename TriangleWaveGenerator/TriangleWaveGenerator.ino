@@ -7,7 +7,7 @@ long calc_freq(long sample_rate, long freq, long prescalar) {
 
 
 void setup () {
-  // Set DAC input pins to write
+  // Set DAC input pins to write (connect DAC input pins to arduino pins 2-9)
   DDRD = DDRD | 0b11111100;
   DDRB = 255;
   
